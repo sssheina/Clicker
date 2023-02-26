@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Week_29_Clicker/static/css/main.677672f5.css",
+    "main.js": "/Week_29_Clicker/static/js/main.3e9098eb.js",
+    "static/js/787.e458d2a5.chunk.js": "/Week_29_Clicker/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/Week_29_Clicker/index.html",
+    "main.677672f5.css.map": "/Week_29_Clicker/static/css/main.677672f5.css.map",
+    "main.3e9098eb.js.map": "/Week_29_Clicker/static/js/main.3e9098eb.js.map",
+    "787.e458d2a5.chunk.js.map": "/Week_29_Clicker/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677672f5.css",
+    "static/js/main.3e9098eb.js"
+  ]
+}
